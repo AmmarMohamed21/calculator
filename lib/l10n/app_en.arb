@@ -1,0 +1,16 @@
+{
+    "calculator": "Calculator",
+    "calculate": "Calculate",
+    "addition": "Addition = ",
+    "subtraction": "Subtraction = ",
+    "multiplication": "Multiplication = ",
+    "division": "Subtraction = ",
+    "exponentiation": "Exponentiation = ",
+    "firstNum": "First Number",
+    "secondNum": "Second Number",
+    "expTooBig": "Exponent is too big",
+    "enterValue": "Please enter a value",
+    "integersOnly": "Only integer numbers are allowed",
+    "zeroDivision": "Zero is not allowed for division",
+    "outOfRange": "Number is out of allowed range"
+}

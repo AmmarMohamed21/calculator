@@ -1,0 +1,16 @@
+{
+    "calculator": "آلة حاسبة",
+    "calculate": "احسب",
+    "addition": "الجمع = ",
+    "subtraction": "الطرح = ",
+    "multiplication": "الضرب = ",
+    "division": "القسمة = ",
+    "exponentiation": "الأس = ",
+    "firstNum": "الرقم الأول",
+    "secondNum": "الرقم الثاني",
+    "expTooBig": "الأس كبير للغاية",
+    "enterValue": "من فضلك ادخل رقم",
+    "integersOnly": "مسموح بالأرقام الصحيحة فقط",
+    "zeroDivision": "الصفر غير مسموح للقسمة",
+    "outOfRange": "الرقم خارج النطاق المسموح به"
+}
